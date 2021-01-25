@@ -80,6 +80,10 @@ a:focus {
     font-weight: 800;
 }
 
+.hero h1 span {
+    color: #4F84C4;
+}
+
 .hero h3 span {
     color: #4F84C4;
 }
