@@ -36,6 +36,10 @@ a:focus {
     max-width: 1050px;
 }
 
+video {
+    width: 100%;
+    height: auto;
+  }
 
 /*******************************/
 /*********** Top CSS **********/
